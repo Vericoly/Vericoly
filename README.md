@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Veeresh
+- 👋 Hi,
 - 👀 I’m interested in Automotive Software development
 - 🌱 I’m currently learning C/CPP development.
 - 💞️ I’m looking to collaborate on development projects based on C/CPP.
